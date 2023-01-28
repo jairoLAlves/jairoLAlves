@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=olá,+meu+nome+é+Jairo+Alves;Gosto+de+desenvolvimento+mobile.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CD853F&size=35&center=true&vCenter=true&width=1000&lines=olá,+meu+nome+é+Jairo+Alves;Gosto+de+desenvolvimento+mobile.)](https://git.io/typing-svg)
 
 
 
@@ -33,7 +33,7 @@
    
 <p align="center">
   <a href="https://www.linkedin.com/in/jairo-laranjeira-alves-69a921221/"><img src="https://img.shields.io/badge/-Jairo_Laranjeira_Alves-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
-<a href="jairoauves8@gmail.com"><img src="https://img.shields.io/badge/-jairoauves8@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" /></a> <a href="https://www.instagram.com/jairo_l_alves/"><img src="https://img.shields.io/badge/-Jairo_L_Alves-white?style=flat&logo=Instagram&logoColor=red" /></a>
+<a href="jairoauves8@gmail.com"><img src="https://img.shields.io/badge/-jairoauves8@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" /></a> <a href="https://www.instagram.com/jairo_l_alves/"><img src="https://img.shields.io/badge/-Jairo_L_Alves-bc2a8d?style=flat&logo=Instagram&logoColor=white" /></a>
 </p>
 
 
