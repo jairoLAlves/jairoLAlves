@@ -9,8 +9,8 @@
 
 
 
- <br>
- ## ⚡ Technologies & Skills
+<br>
+⚡ Technologies & Skills
 <div align="center">
 
 <img align="center" alt="Flutter"       height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/flutter.svg">
