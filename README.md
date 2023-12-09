@@ -1,44 +1,44 @@
+# Olá, mundo! Meu nome é Jairo L. Alves
+
+## Sobre mim
+Sou uma pessoa curiosa, que ama descobrir coisas novas e buscar soluções criativas para os desafios que encontro no caminho. Desde que descobri a programação, ela se tornou a minha maior paixão, e estou sempre estudando e praticando para me tornar um desenvolvedor melhor a cada dia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e buscando oportunidades na área de tecnologia.
 
 
-<h1>Olá, mundo! Eu sou apaixonado por programação!</h1>
 
-<h2>Sobre mim</h2>
-<p>
- Sou uma pessoa curiosa, que ama descobrir coisas novas e buscar soluções criativas para os desafios que encontro no caminho.
- Desde que descobri a programação, ela se tornou a minha maior paixão e estou sempre estudando e praticando para me tornar um desenvolvedor melhor a cada dia.
-</p>
+<div style=" display: flex;
+    justify-content: space-between;">
+  <div style="flex: 1;
+    min-width: 300px;
+    background-color: #000;
+    border: 1px solid #2b2b2b;
+    padding: 10px;
+    border-radius: 5px;">
+    <h2>Habilidades</h2>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jairoLAlves&bg_color=000&border_color=2b2b&title_color=30A3DC&text_color=fff" alt="Top Langs">
+  </div>
 
-<h2>Habilidades</h2>
-<ul>
-  <li>Desenvolvimento em Flutter e Dart
-   <img align="center" alt="Flutter"       height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/flutter.svg">
- <img align="center" alt="Dart"       height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/dart.svg">
- </li>
-  <li>Desenvolvimento web com HTML, CSS e JavaScript</li>
-  <li>Git e controle de versão</li>
-  <li>Resolução de problemas e tomada de decisão</li>
-  <li>Aprendizado rápido e autodidata</li>
-</ul>
+  <div style="flex: 1;
+    min-width: 300px;
+    background-color: #000;
+    border: 1px solid #2b2b2b;
+    padding: 10px;
+    border-radius: 5px;">
+    <h2>Github Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=jairoLalves&theme=transparent&bg_color=000&border_color=2b2b&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=fff" alt="GitHub Stats">
+  </div>
+</div>
 
-<h2>Projetos</h2>
-<ul>
-  <li><a href="https://github.com/jairoLAlves/b3-stocks-price">Projeto 1</a>: fornece informações sobre o preço das ações negociadas na B3.</li>
-  
-</ul>
+## Linguagens de Programação
+![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=Dart)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=Java)
+![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=Kotlin)
 
-<h2>Contato</h2>
-<ul>
-  <li><a href="jairoauves8@gmail.com">
- <img src="https://img.shields.io/badge/-jairoauves8@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" />
-</a></li>
-  <li><a href="https://www.linkedin.com/in/jairo-laranjeira-alves-69a921221/">
- <img src="https://img.shields.io/badge/-Jairo_Laranjeira_Alves-blue?style=flat&logo=Linkedin&logoColor=white" />
-</a>
- </li>
-  <li><a href="https://www.instagram.com/jairo_l_alves/">
- <img src="https://img.shields.io/badge/-Jairo_L_Alves-bc2a8d?style=flat&logo=Instagram&logoColor=white" />
-   </a>
- </li>
-</ul>
+## Principais Projetos
+[![Repo B3 Stocks Price](https://github-readme-stats.vercel.app/api/pin/?username=jairoLAlves&repo=b3-stocks-price&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/jairoLAlves/b3-stocks-price)
 
-<p>Sinta-se à vontade para entrar em contato comigo para trocar ideias ou sugestões de projetos!</p>
+## Conecte-se comigo
+- [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jairoauves8@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jairo-laranjeira-alves-69a921221/)
+- [![Instagram](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/jairo_l_alves/)
+
+Sinta-se à vontade para entrar em contato comigo para trocar ideias ou sugestões de projetos!
