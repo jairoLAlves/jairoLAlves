@@ -5,8 +5,9 @@ Sou uma pessoa curiosa, que ama descobrir coisas novas e buscar soluções criat
 
 
 
-<div style=" display: flex;
-    justify-content: space-between;">
+<div style="  display: flex;
+    flex-wrap: wrap;
+    gap: 1px;">
   <div style="flex: 1;
     min-width: 300px;
     background-color: #000;
