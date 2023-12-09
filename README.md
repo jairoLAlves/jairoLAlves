@@ -5,27 +5,27 @@ Sou uma pessoa curiosa, que ama descobrir coisas novas e buscar soluções criat
 
 
 
-<div style="  display: flex;
+<div style="display: flex;
     flex-wrap: wrap;
+     max-width: 800px;
     gap: 1px;">
   <div style="flex: 1;
-    min-width: 300px;
+    min-width: 400px;
+    max-width: 500px;
     background-color: #000;
     border: 1px solid #2b2b2b;
     padding: 10px;
     border-radius: 5px;">
     <h2>Habilidades</h2>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jairoLAlves&bg_color=000&border_color=2b2b&title_color=30A3DC&text_color=fff" alt="Top Langs">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jairoLAlves&theme=react" alt="Top Langs">
   </div>
 
   <div style="flex: 1;
     min-width: 300px;
-    background-color: #000;
-    border: 1px solid #2b2b2b;
+    max-width: 500px;
     padding: 10px;
     border-radius: 5px;">
-    <h2>Github Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=jairoLalves&theme=transparent&bg_color=000&border_color=2b2b&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=fff" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=jairoLalves&theme=react" alt="GitHub Stats">
   </div>
 </div>
 
