@@ -2,7 +2,7 @@
 ## Conecte-se comigo
 
  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jairoauves8@gmail.com)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jairo-laranjeira-alves/) 
- [![Instagram](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/jairo_l_alves/)
+ 
 
 
 
